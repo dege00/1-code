@@ -1,5 +1,5 @@
 # Primeiro codigo html que desenvolvi na vida
-link: (https://dege00.github.io/1-code/)
+link: https://dege00.github.io/1-code/
 
 Não me julgue por ser algo tão bobo, o intuito é esse e mostrar minha evolução.
 
